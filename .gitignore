@@ -1,0 +1,17 @@
+# Editor
+.vscode/
+
+# OS junk
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Logs/temp
+*.log
+*.tmp
+
+# Python (if any)
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
