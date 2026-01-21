@@ -1,17 +1,13 @@
-# Editor
+# Ignore VS Code settings
 .vscode/
 
-# OS junk
+# Ignore OS junk
 Thumbs.db
 desktop.ini
 .DS_Store
 
-# Logs/temp
+# Ignore temp files
 *.log
 *.tmp
 
-# Python (if any)
-__pycache__/
-*.pyc
-.ipynb_checkpoints/
 
